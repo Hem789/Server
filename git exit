@@ -1,0 +1,128 @@
+[33mcommit 0566e956ac2187d98d4533089bde3208cdad1bb5[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Tom Weiland <tomdweiland@gmail.com>
+Date:   Thu Jan 6 14:39:00 2022 -0800
+
+    Updated README & FUNDING
+
+[33mcommit 8692304a76abb56fc3145fd01cd09339b1347b2b[m
+Author: Tom Weiland <51303091+tom-weiland@users.noreply.github.com>
+Date:   Sat May 29 15:20:25 2021 -0700
+
+    Create FUNDING.yml
+
+[33mcommit 530bc976d4db00bcd872260ab7c03a10875d0868[m
+Merge: c883d19 89081c5
+Author: Tom Weiland <51303091+tom-weiland@users.noreply.github.com>
+Date:   Tue Feb 23 22:49:12 2021 -0800
+
+    Merge pull request #10 from shreyanshanchlia/master
+    
+    Update README.md
+
+[33mcommit c883d1963dc1ba023d7d0ee92cff209b37196edd[m
+Author: Tom Weiland <tomdweiland@gmail.com>
+Date:   Tue Feb 23 21:54:43 2021 -0800
+
+    Fixed .gitignore not working
+
+[33mcommit ca8ca3d1d74f311462d7e0d593d8e91ba3048559[m
+Author: Tom Weiland <tomdweiland@gmail.com>
+Date:   Tue Feb 23 21:52:44 2021 -0800
+
+    Clearing pending changes
+
+[33mcommit 89081c5b5ad2d181bb0ba90133be87f45c6df510[m
+Author: Shreyansh Anchlia <48558967+shreyanshanchlia@users.noreply.github.com>
+Date:   Fri Oct 2 02:23:44 2020 +0530
+
+    Update README.md
+
+[33mcommit d12630dc7a395c58733a2ac363cf7167a3f90b2a[m
+Author: Tom Weiland <tomdweiland@gmail.com>
+Date:   Sun May 24 21:16:41 2020 -0700
+
+    README update
+
+[33mcommit 758bcb31956adb9701ea409f7c161c97a1204947[m
+Author: Tom Weiland <tomdweiland@gmail.com>
+Date:   Wed May 13 20:27:38 2020 -0700
+
+    Added README file
+
+[33mcommit 052dac2ee60311558aa53060e854303b5a3d0408[m
+Author: Tom Weiland <tomdweiland@gmail.com>
+Date:   Sat Apr 25 17:49:24 2020 -0700
+
+    Added networked AI
+
+[33mcommit 304e6f25404d8b024967fde84de638fce517b264[m
+Author: Tom Weiland <tomdweiland@gmail.com>
+Date:   Sat Apr 11 21:50:45 2020 -0700
+
+    Projectiles and explosions
+
+[33mcommit 09d039db3692816df703302a69855d16f1a91237[m
+Author: Tom Weiland <tomdweiland@gmail.com>
+Date:   Sun Mar 29 16:00:43 2020 -0700
+
+    Added licence file
+
+[33mcommit f760dc599dcfd2dd2a6290122387640852d5a48c[m
+Author: Tom Weiland <tomdweiland@gmail.com>
+Date:   Wed Mar 11 19:50:20 2020 -0700
+
+    Picking up items
+
+[33mcommit 7926e37fb3a629b389919732fa5af9a91d685d84[m
+Author: Tom Weiland <tomdweiland@gmail.com>
+Date:   Sat Feb 29 22:48:28 2020 -0800
+
+    Player shooting
+
+[33mcommit 61f943da27da2b7ebfce1726abdda509d3bb8364[m
+Author: Tom Weiland <tomdweiland@gmail.com>
+Date:   Sat Feb 1 21:31:29 2020 -0800
+
+    Server-side collisions
+
+[33mcommit 2a365f7cc926fc821dda3ea7916a5bd7d402a46f[m
+Author: Tom Weiland <tomdweiland@gmail.com>
+Date:   Sat Jan 18 19:33:03 2020 -0800
+
+    Moved server code into Unity
+
+[33mcommit b1dace596a2218a165a2b1bfe537bc191b177fdb[m
+Author: Tom Weiland <tomdweiland@gmail.com>
+Date:   Mon Dec 23 14:54:43 2019 -0800
+
+    Added comments
+
+[33mcommit 798ea2df466cf8dd20cbbc787ed98dfeec60a4f7[m
+Author: Tom Weiland <tomdweiland@gmail.com>
+Date:   Sat Dec 21 20:28:16 2019 -0800
+
+    Properly handling of disconnections
+
+[33mcommit ec39ae7019e3bb58c6f84bdf43d5dfd17e815b1a[m
+Author: Tom Weiland <tomdweiland@gmail.com>
+Date:   Sat Dec 7 16:01:16 2019 -0800
+
+    Player movement
+
+[33mcommit befa1dff825fe479a8f2ba7b0abdafd741c95d68[m
+Author: Tom Weiland <tomdweiland@gmail.com>
+Date:   Sun Nov 17 14:30:28 2019 -0800
+
+    Sending and receiving UDP data
+
+[33mcommit f8d872c3e5cf7d166959d88c75101aad9d9971d1[m
+Author: Tom Weiland <tomdweiland@gmail.com>
+Date:   Sat Oct 26 17:27:41 2019 -0700
+
+    Sending and receiving TCP data
+
+[33mcommit ae6742b98bf0a68d96c22ab7e8c04e21415cb8c1[m
+Author: Tom Weiland <tomdweiland@gmail.com>
+Date:   Thu Oct 17 14:25:47 2019 -0700
+
+    Client-server connection
